@@ -7,36 +7,67 @@ Instead of giving the same discount to every customer, CartRescue AI combines cu
 
 # Table of Contents
 Problem Statement
+
 Why Cart Abandonment Happens
+
 Our Solution
+
 Project Objectives
+
 Complete Workflow
+
 Dataset
+
 Data Processing
+
 Feature Engineering
+
 Machine Learning
+
 Model Evaluation
+
 Risk Scoring
+
 Abandonment Diagnosis
+
 Intervention Engine
+
 Margin Protection & Guardrails
+
 Real-Time Rescue Experience
+
 Store Simulator
+
 Merchant Command Dashboard
+
 Model Diagnostics
+
 Strategy Rules
+
 Holdout Experiment
+
 Business Impact
+
 System Architecture
+
 Technology Stack
+
 API
+
 Project Structure
+
 Project Deliverables
+
 Expected Outcomes
+
 Getting Started
+
 Demo
+
 Future Scope
+
 Team
+
 License
 
 # Problem Statement
